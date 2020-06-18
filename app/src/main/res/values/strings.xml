@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EcommerceDemoApp</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="invalid_username_msg">Username Not Valid</string>
+    <string name="invalid_pswd_msg">Password Not Valid</string>
+    <string name="out_of_stock">Out of stock</string>
+</resources>
